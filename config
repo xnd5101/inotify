@@ -1,0 +1,12 @@
+#是否本地复制,1-是，2-跨机器
+is_local_copy=2
+#目地机ip
+dest_ip=192.168.0.209
+#目地机ip
+dest_user=root
+#源图片监控目录
+ftp_path=/home/ftpuser/ftp1/
+#目的数据目录
+dest_pic_path=/data/pic/
+#目录层级
+dest_path_level=1
